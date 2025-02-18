@@ -25,8 +25,8 @@ const App = () => {
 
 
     const origin = {
-        lat: 40.7128,
-        lng: -74.0060,
+        lat: 9.2408,   // Kubwa, Abuja Latitude
+        lng: 7.3964,   // Kubwa, Abuja Longitude
     };
 
     const handleMarkerClick = (lat, lng) => {
