@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:3000'; // Replace with your backend URL if different
+const API_BASE_URL = 'https://customer-location.onrender.com'; // Replace with your backend URL if different
 
 const apiService = {
   getCustomers: async (page, limit, token) => {
